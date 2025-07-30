@@ -15,7 +15,7 @@ I'm Addy Nehemiah, a passionate frontend developer and graphic designer based in
 ## 🌐 Live Site
 
 Visit the portfolio here:  
-**[mr-frimpong1.github.io/Portfolio](https://mr-frimpong1.github.io/Portfolio/)**
+**[mr-frimpong1.github.io/Portfolio](https://Addynehemiah17.github.io/Portfolio/)**
 
 ---
 
